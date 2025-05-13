@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://peifeng.li"><img width="184px" alt="logo" src="https://raw.githubusercontent.com/li-peifeng/li-peifeng.github.io/refs/heads/main/logo.png" />
+  </a>
+</p>
+
 # jellyfin-mods
 
 ### These mods are working and tested on **Jellyfin 10.9.x** (mods for older versions can be found [here](https://github.com/BobHasNoSoul/jellyfin-mods/blob/main/10.8.x.md)). More will be added when I get the chance, or if you want please feel free to submit a pull request with your own mods to add to the collection. 
